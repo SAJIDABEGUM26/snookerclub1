@@ -1,0 +1,53 @@
+.container .firm{
+    position: absolute;
+    top:0;
+    right: 0;
+    width: calc(100% -58%);
+    height: 550px;
+    background-color: red;
+
+}
+
+
+
+.form{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 58%;
+    height: 100%;
+    background: yellowgreen;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+<h1>Signup</h1>
+                    <p>First name<input type="text"  placeholder="" required></p>
+                    <p>Last name<input type="text" placeholder="" required></p>
+                    <p>Adress<input type="text" placeholder="" required></p>
+                    <p>city<input type="text" placeholder="" required></p>
+                    <p>country<input type="text" placeholder="" required></p>
+                
+                    <p>Phone no<input type="text" placeholder="" required></p>
+                    <p>Email id<input type="text" placeholder="" required></p>
+                    <p>Password<input type="text" placeholder="" required></p>
+                    <p>Age<input type="text" placeholder="" required></p>
+                    <div> <button> <a href="welcomee.html"> Signup </a> </button></div><br>
+                    Already have a Membership 
+                    <a href= 'log.html'> Login </a>
+                
+            
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        
+    </body>
+</html>
